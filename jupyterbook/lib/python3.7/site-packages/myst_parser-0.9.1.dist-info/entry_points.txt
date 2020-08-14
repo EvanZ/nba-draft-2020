@@ -1,0 +1,3 @@
+[console_scripts]
+myst-benchmark = myst_parser.cli.benchmark:main
+

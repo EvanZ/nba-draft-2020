@@ -1,0 +1,4 @@
+[console_scripts]
+markdown-it = markdown_it.cli.parse:main
+markdown-it-bench = markdown_it.cli.benchmark:main
+
