@@ -1,7 +1,7 @@
 # Book settings
-title: My sample book
-author: The Jupyter Book Community
-logo: logo.png
+title: thecity2's Big Board
+author: Evan Zamir
+logo: 3132__nba_draft-primary-2020.png
 
 latex:
   latex_documents:

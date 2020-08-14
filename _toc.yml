@@ -1,4 +1,9 @@
 - file: intro
+- file: tier2
+  sections:
+    - file: lamelo_ball
+    - file: anthony_edwards
+    - file: aleksej_pokusevski
 - file: content
   sections:
     - file: markdown
