@@ -1,10 +1,47 @@
 - file: intro
+- file: sentiment
+- file: summary
+- file: mock
 - file: tier2
   sections:
-    - file: lamelo_ball
-    - file: anthony_edwards
-    - file: aleksej_pokusevski
-- file: content
+    - file: players/lamelo_ball
+    - file: players/anthony_edwards
+    - file: players/aleksej_pokusevski
+- file: tier3
   sections:
-    - file: markdown
-    - file: notebooks
+    - file: tier3_wings
+      sections:
+        - file: players/deni_avdija
+        - file: players/patrick_williams
+        - file: players/devin_vassell
+        - file: players/josh_green
+        - file: players/isaac_okoro
+    - file: tier3_guards
+      sections:
+        - file: players/killian_hayes
+        - file: players/kira_lewis
+    - file: tier3_bigs
+      sections:
+        - file: players/james_wiseman
+        - file: players/onyeka_okongwu
+        - file: players/obi_toppin
+- file: tier4
+  sections:
+    - file: tier4_wings
+      sections:
+        - file: players/desmond_bane
+        - file: players/cassius_stanley
+        - file: players/saddiq_bey
+        - file: players/aaron_nesmith
+    - file: tier4_guards
+      sections:
+        - file: players/tyrese_haliburton
+        - file: players/grant_riller
+        - file: players/tyrell_terry
+        - file: players/cole_anthony
+        - file: players/theo_maledon
+        - file: players/tyrese_maxey
+    - file: tier4_bigs
+      sections:
+        - file: players/killian_tillie
+        - file: players/reggie_perry
