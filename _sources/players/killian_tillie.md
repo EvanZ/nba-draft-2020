@@ -1,9 +1,20 @@
 Killian Tillie
 ===
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/7JsvSA88jos" frameborder="10" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{figure} ../img/killian_tillie.jpg
+---
+align: center
+---
+Killian Tillie
+```
 
 ## Bio
+```{figure} ../img/gonzaga.png
+---
+figclass: margin
+---
+Gonzaga Bulldogs
+```
 
 - Mar 5, 1998
 
@@ -16,6 +27,8 @@ Killian Tillie
 - 6'8" ws ~8'9.5" sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/7JsvSA88jos" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >stuff
 
 ## Twitter Sentiment

@@ -1,9 +1,20 @@
 Cole Anthony
 ===
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/xaBR5sHzdKQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{figure} ../img/cole_anthony.jpg
+---
+align: center
+---
+Cole Anthony
+```
 
 ## Bio
+```{figure} ../img/unc.png
+---
+figclass: margin
+---
+UNC Tar Heels
+```
 
 - May 15, 2000
 
@@ -16,6 +27,8 @@ Cole Anthony
 - 6'4.5" ws ~8' sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/xaBR5sHzdKQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >stuff
 
 ## Twitter Sentiment

@@ -1,10 +1,19 @@
 Deni Avdija
 ===
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/DPAzGTz0mck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{figure} ../img/deni_avdija.jpg
+---
+align: center
+---
+Deni Avdija
+```
 
 ## Bio
-
+```{figure} ../img/1200px-Maccabi_Tel_Aviv_BC_logo.svg.png
+---
+figclass: margin
+---
+Maccabi Tel Aviv - Israel Basketball League/EuroLeague
+```
 - Jan 3, 2001
 
 - Maccabi Tel Aviv
@@ -16,6 +25,8 @@ Deni Avdija
 - 6'9" ws ~8'6" sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/DPAzGTz0mck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >stuff about Deni
 
 ## Twitter Sentiment

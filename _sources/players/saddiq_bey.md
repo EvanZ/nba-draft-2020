@@ -1,9 +1,19 @@
 Saddiq Bey
 ===
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/6KJgLBevdfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{figure} ../img/saddiq_bey.jpg
+---
+align: center
+---
+Saddiq Bey
+```
 
 ## Bio
+```{figure} ../img/villanova.png
+---
+figclass: margin
+---
+Villanova Wildcats
+```
 
 - April 9, 1999
 
@@ -16,6 +26,8 @@ Saddiq Bey
 - 6'11" ws ~8'9" sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6KJgLBevdfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >stuff
 
 ## Twitter Sentiment

@@ -1,9 +1,20 @@
 Cassius Stanley
 ===
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/-3tESHTKFLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{figure} ../img/cassius_stanley.jpg
+---
+align: center
+---
+Cassius Stanley
+```
 
 ## Bio
+```{figure} ../img/duke.png
+---
+figclass: margin
+---
+Duke Blue Devils
+```
 
 - Aug 18, 1999
 
@@ -16,6 +27,8 @@ Cassius Stanley
 - 6'6" ws ~8'4" sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/-3tESHTKFLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >stuff
 
 ## Twitter Sentiment

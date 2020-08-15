@@ -1,9 +1,20 @@
 Kira Lewis
 ===
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/gooKhwDBRQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{figure} ../img/kira_lewis.jpg
+---
+align: center
+---
+Kira Lewis
+```
 
 ## Bio
+```{figure} ../img/alabama.png
+---
+figclass: margin
+---
+Alabama Crimson Tide
+```
 
 - April 6, 2001
 
@@ -16,6 +27,8 @@ Kira Lewis
 - 6'6.5" ws ~8'3" sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/gooKhwDBRQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >stuff 
 
 ## Twitter Sentiment
