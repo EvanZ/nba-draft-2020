@@ -1,9 +1,20 @@
 Onyeka Okongwu
 ===
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/n1qUx5SwhXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{figure} ../img/onyeka_okongwu.jpg
+---
+align: center
+---
+Onyeka Okongwu
+```
 
 ## Bio
+```{figure} ../img/usc.png
+---
+figclass: margin
+---
+USC Trojans
+```
 
 - Dec 11, 2000
 
@@ -16,6 +27,8 @@ Onyeka Okongwu
 - 7'2" ws ~9' sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/n1qUx5SwhXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >stuff 
 
 ## Twitter Sentiment

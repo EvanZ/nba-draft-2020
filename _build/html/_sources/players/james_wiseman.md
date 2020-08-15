@@ -1,9 +1,20 @@
 James Wiseman
 ===
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/hZFXvekUfWM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{figure} ../img/james_wiseman.jpg
+---
+align: center
+---
+James Wiseman
+```
 
 ## Bio
+```{figure} ../img/memphis.png
+---
+figclass: margin
+---
+Memphis Tigers
+```
 
 - Mar 31, 2001
 
@@ -16,6 +27,8 @@ James Wiseman
 - 7'5" ws ~9'5" sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/hZFXvekUfWM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >stuff 
 
 ## Twitter Sentiment

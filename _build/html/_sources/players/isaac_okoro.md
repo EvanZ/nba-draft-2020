@@ -1,9 +1,20 @@
 Isaac Okoro
 ===
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/u61VDcqC0m0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{figure} ../img/isaac_okoro.jpg
+---
+align: center
+---
+Isaac Okoro
+```
 
 ## Bio
+```{figure} ../img/auburn1.png
+---
+figclass: margin
+---
+Auburn Tigers
+```
 
 - Jan 26, 2001
 
@@ -16,6 +27,8 @@ Isaac Okoro
 - 6'8.5" ws ~8'4.5" sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/u61VDcqC0m0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >stuff 
 
 ## Twitter Sentiment

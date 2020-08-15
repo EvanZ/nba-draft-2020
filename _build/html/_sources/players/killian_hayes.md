@@ -1,9 +1,21 @@
 Killian Hayes
 ===
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/b0Kwk11oYF8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{figure} ../img/killian_hayes.jpg
+---
+align: center
+---
+Killian Hayes
+```
 
 ## Bio
+```{figure} ../img/1200px-Ratiopharm_Ulm_logo.jpg
+---
+figclass: margin
+---
+ratiopharm Ulm - Basketball Bundesliga - Germany
+```
+
 
 - July 27, 2001
 
@@ -16,6 +28,8 @@ Killian Hayes
 - 6'8" ws ~8'5" sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/b0Kwk11oYF8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >stuff 
 
 ## Twitter Sentiment

@@ -1,9 +1,18 @@
 Anthony Edwards
 ===
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/zLOYlzDYvBQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+```{figure} ../img/anthony_edwards.jpg
+---
+align: center
+---
+Anthony Edwards
+```
 ## Bio
+```{figure} ../img/georgia-bulldogs.jpg
+---
+figclass: margin
+---
+Georgia Bulldogs - SEC
+```
 
 - August 5, 2001
 
@@ -16,6 +25,8 @@ Anthony Edwards
 - 6'9" ws 8'4" sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/zLOYlzDYvBQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >Star potential clearly in the range of outcomes given his combination of physical tools, skill set, and youth. Floor outcome possible if his motor and IQ stagnate.
 
 ## Twitter Sentiment

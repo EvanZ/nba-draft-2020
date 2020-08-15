@@ -1,9 +1,20 @@
 Aaron Nesmith
 ===
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/7uuiGxkbMKk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{figure} ../img/aaron_nesmith.jpg
+---
+align: center
+---
+Aaron Nesmith
+```
 
 ## Bio
+```{figure} ../img/vanderbilt.png
+---
+figclass: margin
+---
+Vanderbilt Commodores
+```
 
 - Oct 16, 1999
 
@@ -16,6 +27,8 @@ Aaron Nesmith
 - 6'10" ws ~8'7" sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/7uuiGxkbMKk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >stuff
 
 ## Twitter Sentiment

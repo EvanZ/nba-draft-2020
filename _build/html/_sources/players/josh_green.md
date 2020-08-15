@@ -1,9 +1,19 @@
 Josh Green
 ===
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/1BYZd_PQxyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{figure} ../img/josh_green.jpg
+---
+align: center
+---
+Josh Green
+```
 
 ## Bio
+```{figure} ../img/1108px-Arizona_Wildcats_logo.svg.png
+---
+figclass: margin
+---
+Arizona Wildcats
+```
 
 - Nov 16, 2000
 
@@ -16,6 +26,8 @@ Josh Green
 - 6'10" ws ~8'7" sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/1BYZd_PQxyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >stuff 
 
 ## Twitter Sentiment

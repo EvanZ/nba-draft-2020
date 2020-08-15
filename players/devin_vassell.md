@@ -1,9 +1,20 @@
 Devin Vassell
 ===
+```{figure} ../img/devin_vassell.jpg
+---
+align: center
+---
+Devin Vassell
+```
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/oMbz2bYfUoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Bio
+```{figure} ../img/Florida_State_Seminoles_logo.svg.png
+---
+figclass: margin
+---
+Florida State Seminoles
+```
 
 - Aug 23, 2000
 
@@ -16,6 +27,8 @@ Devin Vassell
 - 6'9" ws ~8'7" sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/oMbz2bYfUoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >stuff 
 
 ## Twitter Sentiment

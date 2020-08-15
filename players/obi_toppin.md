@@ -1,9 +1,20 @@
 Obi Toppin
 ===
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/RhBDQ5ftHbI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{figure} ../img/obi_toppin.jpg
+---
+align: center
+---
+Obi Toppin
+```
 
 ## Bio
+```{figure} ../img/dayton.png
+---
+figclass: margin
+---
+Dayton Flyers
+```
 
 - Mar 4, 1998
 
@@ -16,6 +27,8 @@ Obi Toppin
 - 6'11" ws ~8'10" sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/RhBDQ5ftHbI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >stuff 
 
 ## Twitter Sentiment

@@ -1,10 +1,18 @@
 Aleksej Pokuševski
 ===
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/eSWYqjimdhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+```{figure} ../img/aleksej_pokusevski.jpg
+---
+align: center
+---
+Aleksej Pokuševski
+```
 ## Bio
-
+```{figure} ../img/1200px-Olympiacos_BC_logo.svg.png
+---
+figclass: margin
+---
+Olympiacos - Greek Leage A2
+```
 - Dec 26, 2001
 
 - Olympiacos - Greek A2
@@ -16,6 +24,8 @@ Aleksej Pokuševski
 - 7'3" ws ~9'2.5" sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/eSWYqjimdhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >Unicorn outcome in play if he can handle the physicality of the NBA game. Barely old enough to qualify for the Draft, a patient far-sighted team could be greatly rewarded for taking a leap of faith.
 
 ## Twitter Sentiment

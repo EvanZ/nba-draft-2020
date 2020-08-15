@@ -1,9 +1,20 @@
 Theo Maledon
 ===
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/CFOF4ak-cBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{figure} ../img/theo_maledon.jpg
+---
+align: center
+---
+Theo Maledon
+```
 
 ## Bio
+```{figure} ../img/asvel.png
+---
+figclass: margin
+---
+ASVEL - Jeep Elite/EuroLeague
+```
 
 - Jun 12, 2001
 
@@ -16,6 +27,8 @@ Theo Maledon
 - ~6'9" ws ~8'4.5" sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/CFOF4ak-cBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >stuff
 
 ## Twitter Sentiment

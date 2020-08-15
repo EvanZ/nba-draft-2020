@@ -1,9 +1,19 @@
 Patrick Williams
 ===
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/jfDS2rMOxTI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{figure} ../img/patrick_williams.jpg
+---
+align: center
+---
+Patrick Williams
+```
 
 ## Bio
+```{figure} ../img/Florida_State_Seminoles_logo.svg.png
+---
+figclass: margin
+---
+Florida State Seminoles
+```
 
 - August 6, 2001
 
@@ -16,6 +26,8 @@ Patrick Williams
 - 6'11" ws ~8'10" sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/jfDS2rMOxTI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >stuff 
 
 ## Twitter Sentiment

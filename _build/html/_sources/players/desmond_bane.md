@@ -1,9 +1,20 @@
 Desmond Bane
 ===
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/MA3VnNdrt2c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{figure} ../img/desmond_bane.jpg
+---
+align: center
+---
+Desmond Bane
+```
 
 ## Bio
+```{figure} ../img/tcu.png
+---
+figclass: margin
+---
+TCU Horned Frogs
+```
 
 - Jun 25, 1998
 
@@ -16,6 +27,8 @@ Desmond Bane
 - ~6'4" ws ~8'4" sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/MA3VnNdrt2c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >stuff
 
 ## Twitter Sentiment

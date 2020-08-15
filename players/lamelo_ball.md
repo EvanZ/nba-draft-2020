@@ -1,9 +1,19 @@
 LaMelo Ball
 ===
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/2XjspC9M2Mw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{figure} ../img/lamelo_ball.jpg
+---
+align: center
+---
+LaMelo Ball
+```
 
 ## Bio
+```{figure} ../img/550px-The_Hawks_(NBL)_logo.png
+---
+figclass: margin
+---
+Illaware Hawks - NBL
+```
 
 - August 22, 2001
 
@@ -16,6 +26,8 @@ LaMelo Ball
 - 6'10" ws ~8'6" sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/2XjspC9M2Mw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >Combination of size, ball-handling, IQ, and passing ability makes for a point guard prospect with a high ceiling outcome, even if his shooting is never elite.
 
 ## Twitter Sentiment

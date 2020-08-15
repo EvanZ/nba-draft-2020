@@ -1,9 +1,20 @@
 Tyrell Terry
 ===
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/KteAgld4q6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{figure} ../img/tyrell_terry.jpg
+---
+align: center
+---
+Tyrell Terry
+```
 
 ## Bio
+```{figure} ../img/stanford.png
+---
+figclass: margin
+---
+Stanford Cardinal
+```
 
 - Sept 28, 2000
 
@@ -16,6 +27,8 @@ Tyrell Terry
 - 6'2.5" ws ~8" sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/KteAgld4q6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >stuff
 
 ## Twitter Sentiment

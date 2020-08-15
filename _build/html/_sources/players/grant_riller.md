@@ -1,9 +1,20 @@
 Grant Riller
 ===
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/B2Zhdfj5YA8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{figure} ../img/grant_riller.png
+---
+align: center
+---
+Grant Riller
+```
 
 ## Bio
+```{figure} ../img/charleston.png
+---
+figclass: margin
+---
+College of Charleston Cougars
+```
 
 - Feb 8, 1997
 
@@ -16,6 +27,8 @@ Grant Riller
 - 6'5" ws ~8'3" sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/B2Zhdfj5YA8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >stuff
 
 ## Twitter Sentiment

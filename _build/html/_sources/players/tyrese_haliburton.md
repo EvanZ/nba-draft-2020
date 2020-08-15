@@ -1,9 +1,20 @@
 Tyrese Haliburton
 ===
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/gLfFf4vB-38" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{figure} ../img/tyrese_haliburton.jpg
+---
+align: center
+---
+Tyrese Haliburton
+```
 
 ## Bio
+```{figure} ../img/iowa_state.png
+---
+figclass: margin
+---
+Iowa State Cyclones
+```
 
 - Feb 29, 2000
 
@@ -16,6 +27,8 @@ Tyrese Haliburton
 - 6'7" ws ~8'5" sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/gLfFf4vB-38" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >stuff
 
 ## Twitter Sentiment

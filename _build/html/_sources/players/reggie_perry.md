@@ -1,9 +1,21 @@
 Reggie Perry
 ===
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/i9u9BiupPaU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+```{figure} ../img/reggie_perry.jpg
+---
+align: center
+---
+Reggie Perry
+```
 
 ## Bio
+```{figure} ../img/miss_st.png
+---
+figclass: margin
+---
+Mississippi State Bulldogs
+```
 
 - Mar 21, 2000
 
@@ -16,6 +28,8 @@ Reggie Perry
 - 7'0.5" ws ~8'10" sr
 
 ## Scouting
+<iframe width="640" height="360" src="https://www.youtube.com/embed/i9u9BiupPaU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 >stuff
 
 ## Twitter Sentiment
