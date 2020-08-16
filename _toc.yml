@@ -45,3 +45,30 @@
       sections:
         - file: players/killian_tillie
         - file: players/reggie_perry
+- file: tier5
+  sections:
+    - file: tier5_wings
+      sections:
+        - file: players/leandro_bolmaro
+        - file: players/cj_elleby
+        - file: players/robert_woodard
+        - file: players/tyler_bey
+    - file: tier5_guards
+      sections:
+        - file: players/rj_hampton
+        - file: players/jahmius_ramsey
+        - file: players/skylar_mays
+        - file: players/jalen_harris
+        - file: players/devon_dotson
+        - file: players/tre_jones
+        - file: players/cassius_winston
+        - file: players/nico_mannion
+    - file: tier5_bigs
+      sections:
+        - file: players/zeke_nnaji
+        - file: players/xavier_tillmans
+        - file: players/jaden_mcdaniels
+        - file: players/jalen_smith
+        - file: players/precious_achiuwa
+        - file: players/vernons_carey
+        - file: players/isaiah_stewart
