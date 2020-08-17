@@ -52,6 +52,7 @@
         - file: players/leandro_bolmaro
         - file: players/cj_elleby
         - file: players/robert_woodard
+        - file: players/malik_fitts
         - file: players/tyler_bey
     - file: tier5_guards
       sections:
@@ -66,9 +67,9 @@
     - file: tier5_bigs
       sections:
         - file: players/zeke_nnaji
-        - file: players/xavier_tillmans
+        - file: players/xavier_tillman
         - file: players/jaden_mcdaniels
         - file: players/jalen_smith
         - file: players/precious_achiuwa
-        - file: players/vernons_carey
+        - file: players/vernon_carey
         - file: players/isaiah_stewart
