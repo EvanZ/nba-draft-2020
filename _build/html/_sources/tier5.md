@@ -20,10 +20,10 @@ Tier V
 1. [Nico Mannion](players/nico_mannion.md)
 
 ## [Bigs](tier5_bigs.md)
-1. Zeke Nnaji
-1. Xavier Tillman
-1. Jaden McDaniels
-1. Jalen Smith
-1. Precious Achiuwa
-1. Vernon Carey
-1. Isaiah Stewart
+1. [Zeke Nnaji](players/zeke_nnaji.md)
+1. [Xavier Tillman](players/xavier_tillman.md)
+1. [Jaden McDaniels](players/jaden_mcdaniels.md)
+1. [Jalen Smith](players/jalen_smith.md)
+1. [Precious Achiuwa](players/precious_achiuwa.md)
+1. [Vernon Carey](players/vernon_carey.md)
+1. [Isaiah Stewart](players/isaiah_stewart.md)
