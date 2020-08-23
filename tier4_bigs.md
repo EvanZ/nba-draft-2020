@@ -4,3 +4,4 @@ Bigs
 
 1. [Killian Tillie](players/killian_tillie.md)
 1. [Reggie Perry](players/reggie_perry.md)
+1. [Xavier Tillman](players/xavier_tillman.md)

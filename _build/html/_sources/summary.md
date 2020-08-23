@@ -40,7 +40,6 @@ Empty - In previous years, this tier would have a player such as Luka or Zion.
 
 ### [Wings](tier4_wings.md)
 1. [Desmond Bane](players/desmond_bane.md)
-1. [Cassius Stanley](players/cassius_stanley.md)
 1. [Saddiq Bey](players/saddiq_bey.md)
 1. [Aaron Nesmith](players/aaron_nesmith.md)
 
@@ -55,12 +54,14 @@ Empty - In previous years, this tier would have a player such as Luka or Zion.
 ### [Bigs](tier4_bigs.md)
 1. [Killian Tillie](players/killian_tillie.md)
 1. [Reggie Perry](players/reggie_perry.md)
+1. [Xavier Tillman](players/xavier_tillman.md)
 
 ## [Tier V](tier5.md)
 
 ### [Wings](tier5_wings.md)
 1. [Leandro Bolmaro](players/leandro_bolmaro.md)
 1. [CJ Elleby](players/cj_elleby.md)
+1. [Cassius Stanley](players/cassius_stanley.md)
 1. [Robert Woodard](players/robert_woodard.md)
 1. [Malik Fitts](players/malik_fitts.md)
 1. [Tyler Bey](players/tyler_bey.md)
@@ -77,7 +78,6 @@ Empty - In previous years, this tier would have a player such as Luka or Zion.
 
 ### [Bigs](tier5_bigs.md)
 1. [Zeke Nnaji](players/zeke_nnaji.md)
-1. [Xavier Tillman](players/xavier_tillman.md)
 1. [Jaden McDaniels](players/jaden_mcdaniels.md)
 1. [Jalen Smith](players/jalen_smith.md)
 1. [Precious Achiuwa](players/precious_achiuwa.md)

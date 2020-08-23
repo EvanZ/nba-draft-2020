@@ -4,7 +4,6 @@ Tier IV
 
 ## [Wings](tier4_wings.md)
 1. [Desmond Bane](players/desmond_bane.md)
-1. [Cassius Stanley](players/cassius_stanley.md)
 1. [Saddiq Bey](players/saddiq_bey.md)
 1. [Aaron Nesmith](players/aaron_nesmith.md)
 
@@ -19,3 +18,4 @@ Tier IV
 ## [Bigs](tier4_bigs.md)
 1. [Killian Tillie](players/killian_tillie.md)
 1. [Reggie Perry](players/reggie_perry.md)
+1. [Xavier Tillman](players/xavier_tillman.md)

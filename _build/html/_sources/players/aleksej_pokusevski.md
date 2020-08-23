@@ -1,18 +1,13 @@
 Aleksej Pokuševski
 ===
-```{figure} ../img/aleksej_pokusevski.jpg
----
-align: center
----
-Aleksej Pokuševski
+```{image} ../img/aleksej_pokusevski.jpg
 ```
-## Bio
-```{figure} ../img/1200px-Olympiacos_BC_logo.svg.png
----
-figclass: margin
----
-Olympiacos - Greek Leage A2
-```
+
+```{margin}
+```{admonition} Bio
+:class: note
+![](../img/1200px-Olympiacos_BC_logo.svg.png)
+
 - Dec 26, 2001
 
 - Olympiacos - Greek A2
@@ -22,6 +17,7 @@ Olympiacos - Greek Leage A2
 - 7' 205 lbs
 
 - 7'3" ws ~9'2.5" sr
+```
 
 ## Scouting
 <iframe width="640" height="360" src="https://www.youtube.com/embed/eSWYqjimdhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

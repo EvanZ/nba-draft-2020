@@ -1,19 +1,12 @@
 Anthony Edwards
 ===
-```{figure} ../img/anthony_edwards.jpg
----
-align: center
----
-Anthony Edwards
-```
-## Bio
-```{figure} ../img/georgia-bulldogs.jpg
----
-figclass: margin
----
-Georgia Bulldogs - SEC
+```{image} ../img/anthony_edwards.jpg
 ```
 
+```{margin}
+```{admonition} Bio
+:class: note
+![](../img/georgia-bulldogs.jpg)
 - August 5, 2001
 
 - Freshman - Georgia
@@ -23,6 +16,7 @@ Georgia Bulldogs - SEC
 - 6'5" 225 lbs
 
 - 6'9" ws 8'4" sr
+```
 
 ## Scouting
 <iframe width="640" height="360" src="https://www.youtube.com/embed/zLOYlzDYvBQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

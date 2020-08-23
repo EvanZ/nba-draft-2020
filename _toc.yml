@@ -1,5 +1,3 @@
-- file: intro
-- file: sentiment
 - file: summary
 - file: mock
 - file: tier2
@@ -30,7 +28,6 @@
     - file: tier4_wings
       sections:
         - file: players/desmond_bane
-        - file: players/cassius_stanley
         - file: players/saddiq_bey
         - file: players/aaron_nesmith
     - file: tier4_guards
@@ -45,12 +42,14 @@
       sections:
         - file: players/killian_tillie
         - file: players/reggie_perry
+        - file: players/xavier_tillman
 - file: tier5
   sections:
     - file: tier5_wings
       sections:
         - file: players/leandro_bolmaro
         - file: players/cj_elleby
+        - file: players/cassius_stanley
         - file: players/robert_woodard
         - file: players/malik_fitts
         - file: players/tyler_bey
@@ -67,9 +66,10 @@
     - file: tier5_bigs
       sections:
         - file: players/zeke_nnaji
-        - file: players/xavier_tillman
         - file: players/jaden_mcdaniels
         - file: players/jalen_smith
         - file: players/precious_achiuwa
         - file: players/vernon_carey
         - file: players/isaiah_stewart
+- file: intro
+- file: sentiment
