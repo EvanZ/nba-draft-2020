@@ -1,20 +1,12 @@
 Kira Lewis
 ===
-
-```{figure} ../img/kira_lewis.jpg
----
-align: center
----
-Kira Lewis
+```{image} ../img/kira_lewis.jpg
 ```
 
-## Bio
-```{figure} ../img/alabama.png
----
-figclass: margin
----
-Alabama Crimson Tide
-```
+```{margin}
+```{admonition} Bio
+:class: note
+![](../img/alabama.png)
 
 - April 6, 2001
 
@@ -25,6 +17,24 @@ Alabama Crimson Tide
 - 6'3" 165 lbs
 
 - 6'6.5" ws ~8'3" sr
+```
+
+## Stats
+
+```{admonition} Noteworthy
+:class: note
+- 36.2% 3P% (304 3PA FR+SO)
+- 79.3% FT% (246 FTA FR+SO)
+- 2.5% STL%
+- 18 blocks (nearly top in nation at his size)
+- 1.47 A:TO
+- 50.7% 2P% (296 2PA)
+```
+
+```{Caution}
+- 57.6% FG% at the rim (only 19.7% AST though)
+- 0.29 FTR
+```
 
 ## Scouting
 <iframe width="640" height="360" src="https://www.youtube.com/embed/gooKhwDBRQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

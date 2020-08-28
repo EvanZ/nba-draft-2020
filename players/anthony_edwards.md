@@ -18,6 +18,24 @@ Anthony Edwards
 - 6'9" ws 8'4" sr
 ```
 
+## Stats
+
+```{admonition} Noteworthy
+:class: note
+- 27-27 dunks/att
+- 69% FG% at the rim; 38% assisted
+- 77% FT%
+- 12.9 3PA per 100 poss
+- 30.4% USG%
+- 0.339 FTR
+```
+
+```{Caution}
+- 29.4% 3P%
+- 1.1 A:TOV
+- 52% TS%
+```
+
 ## Scouting
 <iframe width="640" height="360" src="https://www.youtube.com/embed/zLOYlzDYvBQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

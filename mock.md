@@ -9,7 +9,7 @@ Mock Draft
 |---|---|---|---|
 |1|II|MIN|[LaMelo Ball](players/lamelo_ball.md)
 |2|II|GSW|[Anthony Edwards](players/anthony_edwards.md)
-|3|II|CHA|[Aleksej Pokusevski](players/aleksej_pokusevski.md)
+|3|II|CHA|[Aleksej Pokuševski](players/aleksej_pokusevski.md)
 
 ### Tier III
 | Pick | Tier | Team | Player

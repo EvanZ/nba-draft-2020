@@ -19,6 +19,23 @@ Aleksej Pokuševski
 - 7'3" ws ~9'2.5" sr
 ```
 
+## Stats
+
+```{admonition} Noteworthy
+:class: note
+- 8.3% BLK%
+- 25.3% AST%
+- 1.6 A:TO
+- 3.1% STL%
+- 37% 3P% (73 3PA since 2018)
+```
+
+```{Caution}
+- 75.6% FT% on only 37 FTA (small sample)
+- 44% 2PT% (84 2PTA)
+- 0.22 FTR
+```
+
 ## Scouting
 <iframe width="640" height="360" src="https://www.youtube.com/embed/eSWYqjimdhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

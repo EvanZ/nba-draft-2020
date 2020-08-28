@@ -1,19 +1,12 @@
 Josh Green
 ===
-```{figure} ../img/josh_green.jpg
----
-align: center
----
-Josh Green
+```{image} ../img/josh_green.jpg
 ```
 
-## Bio
-```{figure} ../img/1108px-Arizona_Wildcats_logo.svg.png
----
-figclass: margin
----
-Arizona Wildcats
-```
+```{margin}
+```{admonition} Bio
+:class: note
+![](../img/1108px-Arizona_Wildcats_logo.svg.png)
 
 - Nov 16, 2000
 
@@ -24,6 +17,25 @@ Arizona Wildcats
 - 6'5.5" 209 lbs
 
 - 6'10" ws ~8'7" sr
+```
+
+## Stats
+
+```{admonition} Noteworthy
+:class: note
+- 78% FT% (109 FTA)
+- 36% 3P% (83 3PA)
+- 2.8% STL%
+- 1.59 A:TOV / 16% AST%
+- 24 dunks
+```
+
+```{Caution}
+- 64% FG% at the rim
+- 28% FG% mid-range 2s
+- only 1 unassisted 3pt make
+- 20.7% USG
+```
 
 ## Scouting
 <iframe width="640" height="360" src="https://www.youtube.com/embed/1BYZd_PQxyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
