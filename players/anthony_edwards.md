@@ -19,7 +19,12 @@ Anthony Edwards
 ```
 
 ## Stats
-
+```{margin}
+```{Note}
+I don't care so much about points, rebounds, or assists per se (eg I'm not doing this for fantasy projections). 
+What I am presenting here are stats that I think are the most relevant to consider with respect to a prospect's (projected) NBA role.
+None of these stats are guarantees of future success or necessarily harbingers of certain doom. They are just numbers to put into context with a player's overall profile.
+```
 ```{admonition} Noteworthy
 :class: note
 - 27-27 dunks/att
