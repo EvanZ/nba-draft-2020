@@ -8,5 +8,6 @@ Guards
 1. [Jalen Harris](players/jalen_harris.md)
 1. [Devon Dotson](players/devon_dotson.md)
 1. [Tre Jones](players/tre_jones.md)
-1. [Cassius Winston](players/cassius_winston.md)
 1. [Nico Mannion](players/nico_mannion.md)
+1. [Isaiah Joe](players/isaiah_joe.md)
+1. [Cassius Winston](players/cassius_winston.md)

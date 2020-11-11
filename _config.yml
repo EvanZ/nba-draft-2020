@@ -6,3 +6,6 @@ logo: img/3132__nba_draft-primary-2020.png
 latex:
   latex_documents:
     targetname: book.tex
+
+parse:
+  myst_extended_syntax: true

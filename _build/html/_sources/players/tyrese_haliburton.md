@@ -42,10 +42,37 @@ None of these stats are guarantees of future success or necessarily harbingers o
 ```
 
 ## Scouting
+```{admonition} Strengths
+:class: note
+- Passing: Incredible playmaker, especially for a guy who doesn't initiate much or have an elite handle (to say the least).
+- Feel: Might be the one area where I understand the Shaun Livingston comp that frequently comes up.
+- Theoretical shooting: This is a tough one, because the %'s were there, but the shot is definitely "unorthodox". It's hard
+to see him either as a pull-up shooter or shooting at a high level off movement, which kind of boxes him into a spot-up 
+shooter playing off the ball. But he could be good at that?!
+- Theoretical defense: Again, the numbers/analytics tell me he should be a great a defender, but his slight frame,
+lack of elite length or athleticism have me questioning how it translates to the next level.
+``` 
+
+```{admonition} Weaknesses
+:class: warning
+- Frame: How much strength can he add?
+- Low usage: This was an issue that was a red flag with Lonzo and is similarly one for Haliburton. It's very hard to believe
+he'll ever be a goto scorer. For this reason the comps to Shai are maddening, because aside from the fact that they
+are both skinny, very different players and mentalities.
+- Shooting: Just read what I said before!
+- Ball handling: Needs to improve here if he's going to play on ball.
+```
+
 <iframe width="640" height="360" src="https://www.youtube.com/embed/gLfFf4vB-38" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
->stuff
+## Draft Range
+```{margin}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Read for some Friday Night Stats? Check out: &quot;Bayesian Inference of Mock NBA Draft Order&quot;. <a href="https://t.co/GXQ1gZa8td">https://t.co/GXQ1gZa8td</a></p>&mdash; Evan Zamir (@thecity2) <a href="https://twitter.com/thecity2/status/1322380403907338241?ref_src=twsrc%5Etfw">October 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
 
-## Twitter Sentiment
+```{image} ../plrange/tyrese_haliburton.png
+```
+
+## Sentiment
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Realistic ceiling for Tyrese Haliburton?</p>&mdash; Aleksej Rhymes with Sergei (@thecity2) <a href="https://twitter.com/thecity2/status/1284590032980815875?ref_src=twsrc%5Etfw">July 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

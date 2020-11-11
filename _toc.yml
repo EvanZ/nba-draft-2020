@@ -4,15 +4,14 @@
   sections:
     - file: players/lamelo_ball
     - file: players/anthony_edwards
-    - file: players/aleksej_pokusevski
 - file: tier3
   sections:
     - file: tier3_wings
       sections:
-        - file: players/deni_avdija
         - file: players/patrick_williams
-        - file: players/devin_vassell
         - file: players/josh_green
+        - file: players/deni_avdija
+        - file: players/devin_vassell
         - file: players/isaac_okoro
     - file: tier3_guards
       sections:
@@ -20,8 +19,9 @@
         - file: players/kira_lewis
     - file: tier3_bigs
       sections:
-        - file: players/james_wiseman
         - file: players/onyeka_okongwu
+        - file: players/aleksej_pokusevski
+        - file: players/james_wiseman
         - file: players/obi_toppin
 - file: tier4
   sections:
@@ -33,11 +33,11 @@
     - file: tier4_guards
       sections:
         - file: players/tyrese_haliburton
-        - file: players/grant_riller
         - file: players/tyrell_terry
-        - file: players/cole_anthony
-        - file: players/theo_maledon
         - file: players/tyrese_maxey
+        - file: players/theo_maledon
+        - file: players/cole_anthony
+        - file: players/grant_riller
     - file: tier4_bigs
       sections:
         - file: players/killian_tillie
@@ -49,9 +49,7 @@
       sections:
         - file: players/leandro_bolmaro
         - file: players/cj_elleby
-        - file: players/cassius_stanley
         - file: players/robert_woodard
-        - file: players/malik_fitts
         - file: players/tyler_bey
     - file: tier5_guards
       sections:
@@ -61,15 +59,66 @@
         - file: players/jalen_harris
         - file: players/devon_dotson
         - file: players/tre_jones
-        - file: players/cassius_winston
         - file: players/nico_mannion
+        - file: players/isaiah_joe
+        - file: players/cassius_winston
     - file: tier5_bigs
       sections:
-        - file: players/zeke_nnaji
-        - file: players/jaden_mcdaniels
         - file: players/jalen_smith
         - file: players/precious_achiuwa
+        - file: players/jaden_mcdaniels
+        - file: players/paul_reed
+        - file: players/zeke_nnaji
         - file: players/vernon_carey
         - file: players/isaiah_stewart
+- file: tier6
+  sections:
+    - file: tier6_wings
+      sections:
+        - file: players/tres_tinkle
+        - file: players/jordan_nwora
+        - file: players/cassius_stanley
+        - file: players/elijah_hughes
+        - file: players/trevelin_queen
+        - file: players/lamine_diane
+        - file: players/abdoulaye_ndoye
+        - file: players/malik_fitts
+        - file: players/isiaha_mike
+        - file: players/paul_eboua
+        - file: players/emmitt_williams
+        - file: players/lamar_stevens
+        - file: players/kristian_doolittle
+        - file: players/jay_scrubb
+        - file: players/josh_hall
+    - file: tier6_guards
+      sections:
+        - file: players/malachi_flynn
+        - file: players/tyshon_alexander
+        - file: players/mason_jones
+        - file: players/nate_hinton
+        - file: players/sam_merrill
+        - file: players/immanuel_quickley
+        - file: players/saben_lee
+        - file: players/myles_powell
+        - file: players/christian_vital
+        - file: players/payton_pritchard
+        - file: players/markus_howard
+        - file: players/yam_madar
+        - file: players/ashton_hagans
+        - file: players/anthony_cowan
+        - file: players/jordan_ford
+        - file: players/jordan_roland
+        - file: players/markell_johnson
+    - file: tier6_bigs
+      sections:
+        - file: players/udoka_azubuike
+        - file: players/daniel_oturu
+        - file: players/mamadi_diakite
+        - file: players/nick_richards
+        - file: players/nathan_knight
+        - file: players/austin_wiley
+        - file: players/steven_enoch
+        - file: players/borisa_simanic
+        - file: players/omer_yurtseven
 - file: intro
 - file: sentiment
