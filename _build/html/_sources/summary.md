@@ -123,7 +123,6 @@ Empty - In previous years, this tier might have a player such as LeBron, Luka, o
 1. [Markell Johnson](players/markell_johnson.md)
 
 ### [Bigs](tier6_bigs.md)
-1. [Paul Reed](players/paul_reed.md)
 1. [Udoka Azubuike](players/udoka_azubuike.md)
 1. [Daniel Oturu](players/daniel_oturu.md)
 1. [Mamadi Diakite](players/mamadi_diakite.md)
