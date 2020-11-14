@@ -74,7 +74,8 @@ Empty - In previous years, this tier might have a player such as LeBron, Luka, o
 1. [Devon Dotson](players/devon_dotson.md)
 1. [Tre Jones](players/tre_jones.md)
 1. [Nico Mannion](players/nico_mannion.md)
-1. [Cassius Winston](players/cassius_winston.md)
+1. [Isaiah Joe](players/isaiah_joe.md)
+1. [Malachi Flynn](players/malachi_flynn.md)
 
 ### [Bigs](tier5_bigs.md)
 1. [Jalen Smith](players/jalen_smith.md)
@@ -106,6 +107,7 @@ Empty - In previous years, this tier might have a player such as LeBron, Luka, o
 
 ### [Guards](tier6_guards.md)
 1. [Malachi Flynn](players/malachi_flynn.md)
+1. [Cassius Winston](players/cassius_winston.md)
 1. [Ty-Shon Alexander](players/tyshon_alexander.md)
 1. [Mason Jones](players/mason_jones.md)
 1. [Nate Hinton](players/nate_hinton.md)
