@@ -38,6 +38,7 @@
         - file: players/theo_maledon
         - file: players/cole_anthony
         - file: players/grant_riller
+        - file: players/rj_hampton
     - file: tier4_bigs
       sections:
         - file: players/killian_tillie
@@ -53,7 +54,6 @@
         - file: players/tyler_bey
     - file: tier5_guards
       sections:
-        - file: players/rj_hampton
         - file: players/jahmius_ramsey
         - file: players/skylar_mays
         - file: players/jalen_harris

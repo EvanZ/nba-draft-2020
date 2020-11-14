@@ -9,7 +9,6 @@ Tier V
 1. [Tyler Bey](players/tyler_bey.md)
 
 ## [Guards](tier5_guards.md)
-1. [RJ Hampton](players/rj_hampton.md)
 1. [Jahmi'us Ramsey](players/jahmius_ramsey.md)
 1. [Skylar Mays](players/skylar_mays.md)
 1. [Jalen Harris](players/jalen_harris.md)
