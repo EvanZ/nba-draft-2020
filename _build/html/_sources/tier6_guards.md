@@ -2,7 +2,7 @@ Guards
 ===
 >Solid Rotation/Journeyman
 
-1. [Malachi Flynn](players/malachi_flynn.md)
+1. [Cassius Winston](players/cassius_winston.md)
 1. [Ty-Shon Alexander](players/tyshon_alexander.md)
 1. [Mason Jones](players/mason_jones.md)
 1. [Nate Hinton](players/nate_hinton.md)

@@ -61,7 +61,7 @@
         - file: players/tre_jones
         - file: players/nico_mannion
         - file: players/isaiah_joe
-        - file: players/cassius_winston
+        - file: players/malachi_flynn
     - file: tier5_bigs
       sections:
         - file: players/jalen_smith
@@ -92,7 +92,7 @@
         - file: players/josh_hall
     - file: tier6_guards
       sections:
-        - file: players/malachi_flynn
+        - file: players/cassius_winston
         - file: players/tyshon_alexander
         - file: players/mason_jones
         - file: players/nate_hinton
