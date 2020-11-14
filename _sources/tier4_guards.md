@@ -8,3 +8,4 @@ Guards
 1. [Theo Maledon](players/theo_maledon.md)
 1. [Cole Anthony](players/cole_anthony.md)
 1. [Grant Riller](players/grant_riller.md)
+1. [RJ Hampton](players/rj_hampton.md)
